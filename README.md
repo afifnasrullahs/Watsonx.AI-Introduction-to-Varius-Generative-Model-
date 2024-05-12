@@ -1,0 +1,1 @@
+# Watsonx.AI-Introduction-to-Varius-Generative-Model-
